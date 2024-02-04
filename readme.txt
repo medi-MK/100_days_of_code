@@ -1,0 +1,1 @@
+These are the exercises from the 100 days of code course on Udemy.
